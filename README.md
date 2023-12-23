@@ -1,5 +1,11 @@
 ## Hi there 👋
-🌱 개발하는 새싹이 <br>
+🌱 개발하는 새싹이✨ <br>
+
+👤PROFILE <br>
+Name | 이승연(Seung Yeon Lee) <br>
+Birth  | 2000.11.06 <br>
+School | Hallym Univ. [2020.03 ~ 2024.02] <br>
+Major | 정보과학대학 - 빅데이터, 스마트IoT <br>
 
 💬SNS list💬<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
