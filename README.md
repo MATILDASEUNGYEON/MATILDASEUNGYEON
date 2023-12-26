@@ -23,6 +23,8 @@ Major | 정보과학대학 - 빅데이터, 스마트IoT <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MATILDASEUNGYEON&layout=compact)](https://github.com/delay-100/github-readme-stats)
 <!--
 **MATILDASEUNGYEON/MATILDASEUNGYEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
